@@ -1,0 +1,3 @@
+All commands performed in google colab(take a full ss of our laptop)
+give description each command of four to ten lines
+conclusion
